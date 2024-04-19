@@ -7,7 +7,7 @@ body {
 .nav {
     display: flex;
     justify-content: space-between;
-    padding: 32px 71px 31px 69px;
+    padding: 32px 72px 31px 69px;
     align-items: center;
     position: sticky;
     top: 0px;
@@ -91,12 +91,12 @@ body {
 .first__box .box__links {
     /* margin: 40px 71px 50px; */
     margin-top: 40px;
-    margin-left: 71px;
+    margin-left: 70px;
     margin-bottom: 50px;
 }
 
 .first__box .box__links li {
-    margin: 10px 0;
+    margin: 12px 0;
 }
 
 .second__box {
@@ -106,8 +106,8 @@ body {
 }
 
 .second__box .box__media {
-    margin-top: 43px;
-    margin-left: 71px;
+    margin-top: 42px;
+    margin-left: 72px;
     margin-bottom: 55px;
     display: flex;
     align-items: center;
@@ -213,8 +213,8 @@ img {
     }
 
     .box__media img {
-        height: 23px;
-        width: 23px;
+        height: 24px;
+        width: 24px;
     }
 
     .box__payments .icon img {
@@ -271,7 +271,7 @@ img {
     }
 
     .nav__icons img {
-        width: 14.39px;
+        width: 14.40px;
     }
 
     .nav__logo img {
